@@ -1,6 +1,6 @@
 Name: nodejs-commander
-Version: 9.4.1
-Release: 2
+Version: 12.1.0
+Release: 1
 Source0: https://github.com/tj/commander.js/archive/refs/tags/v%{version}.tar.gz
 Summary: Node.js command line interface library
 URL: https://github.com/tj/commander.js
